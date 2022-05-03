@@ -1,0 +1,25 @@
+.container-cover {
+  background-image: url("../images/625617.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 400px;
+  margin-bottom: -200px;
+}
+
+.card-row {
+  margin-top: -80px;
+  margin: 0 auto;
+  width: 80vw !important;
+}
+
+.other-cover {
+  background-image: url("../images/625617.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 400px;
+  margin-bottom: -200px;
+}
+
+h1 {
+  color: white;
+}
